@@ -1,4 +1,4 @@
-/*
+
 
 
 const student = {
@@ -921,7 +921,7 @@ console.log(d);
 
 
 
-/*
+
 console.log("server file is running");
 
 function abc(a,b){
@@ -1185,7 +1185,7 @@ app.listen(3000,() =>{
 })
 
 
-*/
+
 
 
 
